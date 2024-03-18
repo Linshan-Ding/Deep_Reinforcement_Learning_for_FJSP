@@ -1,0 +1,3 @@
+order,time_arrive,time_delivery,kind_number
+0,0,100,"(10, 5, 9)"
+1,105,300,"(7, 5, 10)"
